@@ -1,0 +1,51 @@
+body{
+    padding-left: 30px;
+}
+header{
+    margin: 20px;
+    margin-right: 50px;
+    padding: 5px 20px;
+    text-align: right;
+}
+header a {
+    color: #3C3C3C;
+    font-family: Roboto;
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 800;
+}
+.color-1 {
+    color: #363958;
+}
+.color-2 {
+    color: #FF8367;
+}
+.color-3 {
+    color: #3E3E3E;
+}
+.introduction {
+    font-family: Bebas Neue;
+    font-size: 70px;
+    font-weight: 400;
+}
+.hero {
+    padding: 20px;
+}
+.hero p {
+    font-family: Roboto, sans-sarif;
+    font-weight: 500;
+    width: 450px;
+    margin-top: -30px;
+}
+.hero img {
+    width: 60%;
+    height: 60%;
+    margin-left: 150px;
+}
+.half-width {
+    width: 50%;
+    float: left;
+}
+.hero-text {
+    padding-top: 100px;
+}
