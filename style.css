@@ -4,6 +4,9 @@ body{
     margin: 0px;
     margin-bottom: 120px;
 }
+.wrapping {
+    width: 1366px;
+}
 section {
     margin-bottom: 120px;
     padding: 150px 0px;
